@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile applications with Node.js and React Native.<br>👯 I’m looking to collaborate on AI-powered chatbots, full-stack web or mobile apps, and open-source tools that empower communities.<br>🤝 I’m looking for help with optimizing PostgreSQL queries, Firebase integrations, and best practices for building scalable Node.js APIs.<br>🌱 I’m currently learning  React Native advanced components, Firebase Firestore, and diving deeper into machine learning for emotional support systems.<br>💬 Ask me about React Native, Node.js APIs, PostgreSQL setup, or how to handle multi-role authentication in mobile apps.<br>⚡ Fun fact: I once turned a face recognition project into a real-time "Who's Who" game at my college event — and it worked like a charm! 😄
+
 
 
 ## 🌐 Socials:
