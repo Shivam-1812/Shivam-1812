@@ -1,4 +1,4 @@
-# 💫 About Me: Hi!, I'm Shivam.
+# 💫 About Me: Hi, I'm Shivam.
 
 
 
